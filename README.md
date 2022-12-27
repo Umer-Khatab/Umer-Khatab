@@ -1,4 +1,4 @@
-![logo]https://github.com/UMERRKHATAB/UMERRKHATAB/blob/main/custom-built-data-warehouses-1.gif
+![logo](https://github.com/UMERRKHATAB/UMERRKHATAB/blob/main/custom-built-data-warehouses-1.gif)
 <h1 align="center">Hi 👋, I'm Umer Khatab</h1>
 <h3 align="center">Data Analyst | SQL | Excel | Tableau | BI Engineer</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/121483602/209650427-2138c8b8-f0d1-4b38-817a-9f6813a06753.png">
