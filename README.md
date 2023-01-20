@@ -1,4 +1,5 @@
-  ![logo](https://github.com/Umer-Khatab/Umer-Khatab/blob/main/Bang.png)
+  ![logo](https://github.com/Umer-Khatab/Umer-Khatab/blob/main/Bang.png)![logo](https://cdn4.iconfinder.com/data/icons/classes-of-information-systems-1/512/BI-512.png)
+  
 <h1 align="center">Hi 👋, I'm Umer Khatab</h1>
 <h3 align="center">Data Analyst | SQL | Excel | Tableau | BI Engineer</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/121483602/209650427-2138c8b8-f0d1-4b38-817a-9f6813a06753.png">
