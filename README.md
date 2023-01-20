@@ -1,5 +1,4 @@
-  ![logo](https://github.com/Umer-Khatab/Umer-Khatab/blob/main/Bang.png)![logo](https://k21academy.com/wp-content/uploads/2021/06/Power-BI-Developer-1.png)
-  
+  ![logo](https://github.com/Umer-Khatab/Umer-Khatab/blob/main/Bang.png)
 <h1 align="center">Hi 👋, I'm Umer Khatab</h1>
 <h3 align="center">Data Analyst | SQL | Excel | Tableau | BI Engineer</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/121483602/209650427-2138c8b8-f0d1-4b38-817a-9f6813a06753.png">
